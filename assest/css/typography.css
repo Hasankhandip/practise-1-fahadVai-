@@ -1,0 +1,10 @@
+/* Josefin sans & Lato*/
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;500;600;700&family=Lato:wght@300;400&display=swap");
+.main-font {
+  font-family: var(--h-font) !important;
+  font-weight: 400;
+}
+.secondery-font {
+  font-family: var(--p-font) !important;
+  font-weight: 400;
+}

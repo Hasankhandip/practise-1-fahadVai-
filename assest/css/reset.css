@@ -1,0 +1,49 @@
+:root {
+  --main-bg: #07395c;
+  --secondery-bg: #df3940;
+  --third-bg: #006594;
+  --player-hover: #9db1be;
+  --white: #fff;
+  --black: #000;
+  --span-banner: rgb(255, 238, 0);
+  --img-border: #07395c65;
+  --img-color: #9db1beb2;
+  --transition: all ease 0.3s;
+  --transition-4: all ease 0.4s;
+  --transition-5: all ease 0.5s;
+  --h-font: "Josefin Sans", sans-serif;
+  --p-font: "Lato", sans-serif;
+}
+body {
+  font-family: var(--p-font);
+  font-weight: 400;
+  color: #000;
+}
+* {
+  margin: 0;
+  margin: 0;
+}
+ul,
+ol {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+a {
+  text-decoration: none;
+}
+li {
+  list-style: none;
+}
+p {
+  margin-bottom: 0;
+  font-family: var(--p-font);
+  font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #363636;
+}
